@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+KA
+Tú dijiste:
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@100;200;300;400;500;600;700;800&display=swap'); 
 *{
     margin: 0;
     padding: 0;
@@ -29,7 +33,7 @@ body{
 }
 header{
     background-color: #6b5ae4;
-    color: #333333;
+    color: #fff;
     text-align: center;
     font-size: 12px;
     padding: 10px;
@@ -42,7 +46,7 @@ header{
 .inicio{
     text-align: center;
     padding-top: 80px;
-    color: #333333;
+    color: #fff;
     font-size: 20px;
 }
 .inicio input{
@@ -58,7 +62,7 @@ header{
 }
 .btn{
     background-color: #66499e;
-    color: #333333;
+    color: #fff;
     border: 0;
     padding: 10px;
     font-weight: bold;
@@ -107,7 +111,7 @@ header{
 /* SECCION MENU DEL JUEGO */
 .menu{
     margin-top: 30px;
-    color: #333333;
+    color: #fff;
     text-align: center;
 }
 .categorias{
@@ -123,7 +127,7 @@ header{
     width: 170px;
     height: 90px;
     border-radius: 15px;
-    color: #333333;
+    color: #fff;
     position: relative;
     display: flex;
     align-items: end;
@@ -150,7 +154,7 @@ header{
 
 /* PANTALLA DE PREGUNTAS */
 .juego{
-    color: #333333;
+    color: #fff;
     margin-top: 30px;
     text-align: center;
 }
@@ -213,7 +217,7 @@ header{
 .final{
     margin-top: 30px;
     text-align: center;
-    color: #333333;
+    color: #fff;
 }
 .final .medalla{
     position: relative;
